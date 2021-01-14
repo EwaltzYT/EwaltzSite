@@ -1,0 +1,15 @@
+body {
+    background-color: #292929;
+  }
+  
+  h1 {
+    text-align: center;
+    text-size: 500%;
+    font-family: Verdana;
+    color: #ffffff;
+  }
+  
+  button {
+    background-color: #292929;
+    text-color: purple;
+  }
